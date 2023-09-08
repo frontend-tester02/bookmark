@@ -130,7 +130,7 @@ select:-webkit-autofill:focus {
   font-size: 14px;
   line-height: 2;
   font-weight: 500;
-  text
+  text-align: center;
   text-decoration: none;
   cursor: pointer;
   white-space: nowrap;
