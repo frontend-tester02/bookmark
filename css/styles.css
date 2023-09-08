@@ -4,7 +4,7 @@
   --red:#fa5959;
   --text-color:#242a45;
   --text-color-75:rgba(36, 42, 69, 0.75);
-  --text-color-50:rgba(36, 42, 69, 0.5);
+
 }
 
 /* FONT-FACE */
@@ -35,32 +35,7 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Poppins';
-  src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
-      url('../fonts/Poppins-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
 
-@font-face {
-  font-family: 'Poppins';
-  src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
-      url('../fonts/Poppins-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
-      url('../fonts/Poppins-SemiBold.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
 
 
 /* GLOBAL STYLES */
